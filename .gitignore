@@ -1,3 +1,6 @@
 myprojectenv/  
 personal_portfolio/settings.py  
 static/
+.vscode/
+commands.txt
+personal_portfolio/__pycache__
