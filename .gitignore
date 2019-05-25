@@ -4,3 +4,4 @@ static/
 .vscode/
 commands.txt
 personal_portfolio/__pycache__
+frontend/node_modules
